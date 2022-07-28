@@ -17,7 +17,8 @@
 
 - [Link para saber mais](#link-para-saber-mais)
 
-## Descrição do projeto 
+## Descrição do projeto <img width="5%" src="https://raw.githubusercontent.com/PokeApi/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/390.gif" />
+
 
 <p align="justify">
   Desde pequeno, fui muito fan de "Pokemon", tanto nos jogos quanto os desenhos que sempre passavam toda tarde na minha infancia e hoje tive a chance de relembrar minhas tardes refazendo um projeto de "POKEDEX", do <a href="https://www.youtube.com/c/ManualdoDev">Manualdodev</a>, onde ele recriou a famosa pokedex, um mini celular usado nos desenhos para ver nomes de pokemons e seus numeros que são designados, você pode achar o video do projeto <a href="https://www.youtube.com/watch?v=SjtdH3dWLa8">aqui</a>, todos creditos para o mesmo mencionado e a Nintendo portadora dos direitos autorais.
